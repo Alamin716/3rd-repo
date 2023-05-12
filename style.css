@@ -19,6 +19,7 @@ body {
 
 .half-width img {
     width: 60%;
+    margin-left: 150px;
 }
 
 .link-button {
