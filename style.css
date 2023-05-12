@@ -34,3 +34,14 @@ section {
     background-repeat: no-repeat;
 
 }
+
+.dream-big {
+    background-image: url(image/background.png);
+    background-repeat: no-repeat;
+    margin-top: 50px;
+
+}
+
+h1 {
+    font-size: 35px;
+}
